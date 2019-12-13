@@ -10,6 +10,9 @@
           <e p="Pixelize" t="Include">
             <e p="PixelizeShader.shader" t="Include" />
           </e>
+          <e p="ToneMapping" t="Include">
+            <e p="TwoToneShading.shader" t="Include" />
+          </e>
         </e>
         <e p="Scripts" t="Include">
           <e p="PostProcessing.cs" t="Include" />
