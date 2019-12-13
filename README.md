@@ -7,4 +7,4 @@
  2. Set Material on Script.</pre>
 
 ## Test Image
-<img src = "C:\Users\park haneul\Pictures\SampleImage.PNG"></img>
+<img src = "SampleImage.PNG"></img>
